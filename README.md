@@ -1,4 +1,4 @@
-# 🐖 Modeling China’s Pork Price Cycle via Hog Age Structure
+#  Modeling China’s Pork Price Cycle via Hog Age Structure
 
 > *A dynamic population-based approach to modeling pork price fluctuations in China (2007–2034).*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 This repository contains the **full Python implementation and simulation framework** for the paper:
 
@@ -14,12 +14,12 @@ This repository contains the **full Python implementation and simulation framewo
 > *Frontiers in Artificial Intelligence and Applications, 373*, 995–1005.  
 > DOI: [10.3233/faia230912](https://doi.org/10.3233/faia230912)
 
-### 🎯 Research Goal
+###  Research Goal
 To model and predict China's pork price fluctuations by explicitly representing the **age-structured population dynamics of hogs** — integrating **biological reproduction processes** with **economic optimization**.
 
 ---
 
-## 🧠 Methodology Summary
+##  Methodology Summary
 
 1. **Differential Population Modeling**
    - Defined a *continuous-time differential process* to simulate hog reproduction and mortality across age cohorts.
@@ -40,7 +40,7 @@ To model and predict China's pork price fluctuations by explicitly representing 
 ---
 
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 ### Prerequisites
 - Python 3.9+
@@ -52,7 +52,7 @@ jupyter notebook code_120090636.ipynb
 ```
 ---
 
-## 🧩 Citation
+##  Citation
 
 If you use this repository or reproduce results from this study, please cite:
 ```
