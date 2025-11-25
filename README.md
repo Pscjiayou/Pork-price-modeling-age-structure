@@ -50,6 +50,7 @@ Download all files and directly run the jupyter note book:
 ``` bash
 jupyter notebook code_120090636.ipynb
 ```
+---
 
 ## 🧩 Citation
 
@@ -71,7 +72,7 @@ BibTeX:
   doi={10.3233/faia230912}
 }
 ```
-```
+
 “A biologically grounded model can illuminate the economic rhythm of an entire industry.”
 — S. Peng
-```
+
